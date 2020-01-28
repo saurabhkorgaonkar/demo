@@ -1,2 +1,2 @@
 # demo
-git demo
+git demo for command demostration
